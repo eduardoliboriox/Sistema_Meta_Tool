@@ -1,4 +1,4 @@
-# Sistema de Metas - Venttos Electronics
+# Sistema de Metas
 
 Sistema de gerenciamento de metas de produção desenvolvido em **Python + Flask**.  
 Permite cadastrar modelos, calcular metas ajustadas por pessoas e calcular perdas de produção.
@@ -60,6 +60,14 @@ Sistema de Metas - Venttos/
 pip install -r requirements.txt
 python app.py
 ```
+
+---
+
+## 🔗 Acesso ao Sistema (Deploy)
+
+O sistema está disponível online pelo Render:
+
+➡️ **https://sistema-meta-tool.onrender.com/**
 
 ---
 
