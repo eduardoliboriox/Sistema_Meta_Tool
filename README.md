@@ -32,7 +32,7 @@ Visualize a aplicação real através do link no final deste README.md.
 ## 🔹 Estrutura do projeto
 
 ```
-Sistema de Metas - Venttos/
+production-goal-manager/
 ├─ static/
 │   ├─ logo.png 
 │       ├─ css/
@@ -50,7 +50,8 @@ Sistema de Metas - Venttos/
 ├─ producao.db
 ├─ ping.py
 ├─ Profile   
-├─ README.md   
+├─ README.md
+├─ README.EN.md   
 ├─ requirements.txt 
 ```
 ---
