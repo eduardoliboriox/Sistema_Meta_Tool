@@ -1,4 +1,4 @@
-# Sistema de Metas
+# Sistema de Metas - Venttos Electronics
 
 Sistema de gerenciamento de metas de produção desenvolvido em **Python + Flask**.  
 Permite cadastrar modelos, calcular metas ajustadas por pessoas e calcular perdas de produção.
@@ -32,7 +32,7 @@ Visualize a aplicação real através do link no final deste README.md.
 ## 🔹 Estrutura do projeto
 
 ```
-production-goal-manager/
+Sistema de Metas - Venttos/
 ├─ static/
 │   ├─ logo.png 
 │       ├─ css/
@@ -70,7 +70,7 @@ python app.py
 O sistema está disponível online pelo Render:
 Uso contramedidas até na versão free para a página não fechar por inatividade, caso feche, aguarde 50 segundos.
 
-➡️ **https://production-goal-manager.onrender.com**
+➡️ **https://production-goal-manager-venttos.onrender.com**
 
 ---
 
@@ -80,4 +80,3 @@ Uso contramedidas até na versão free para a página não fechar por inatividad
 * 📧 [eduardosoleno@protonmail.com](mailto:eduardosoleno@protonmail.com)
 
 ---
-

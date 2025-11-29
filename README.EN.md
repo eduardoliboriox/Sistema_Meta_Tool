@@ -32,7 +32,7 @@ Check out the live application via the link at the end of this README.md.
 ## 🔹 Project Structure
 
 ```
-production-goal-manager/
+production-goal-manager-venttos/
 ├─ static/
 │   ├─ logo.png 
 │   ├─ css/
